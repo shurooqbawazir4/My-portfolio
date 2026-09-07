@@ -1,4 +1,4 @@
-# Shurooq Bawazir — AI Portfolio
+# Shurooq Bawazir 
 
 A modern, dark, interactive portfolio built with React, Node.js, Express and Docker.
 
